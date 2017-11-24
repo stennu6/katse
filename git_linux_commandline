@@ -1,2 +1,5 @@
 1. git-i paigaldamine
 apt-get install git # root kasutaja alt
+2. git-i konfigureerimine
+git config - global user.name "kasutaja nimi"
+git contfig --gobal user.email nimi@
